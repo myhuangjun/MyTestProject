@@ -1,0 +1,7 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\bin\Debug\Model.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\bin\Debug\Model.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\obj\Debug\Model.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\obj\Debug\Model.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\bin\Debug\CommonAttribute.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\bin\Debug\CommonAttribute.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

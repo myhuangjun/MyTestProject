@@ -1,0 +1,7 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\bin\Debug\WCF-Service.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\bin\Debug\WCF-Service.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\bin\Debug\WCF-Contracts.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\bin\Debug\WCF-Contracts.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\obj\Debug\WCF-Service.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\obj\Debug\WCF-Service.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Service\obj\Debug\WCF-Service.pdb

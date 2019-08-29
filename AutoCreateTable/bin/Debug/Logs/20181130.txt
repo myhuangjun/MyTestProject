@@ -1,0 +1,113 @@
+
+---------------------------------------
+V5.7.8.2 Record On : 2018-11-30 15:32:15 
+---------------------------------------
+
+[Exception]:V5.7.8.2 Error : MySql Call Function::ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+MySql.hiswmsmedicine.SQL: 
+CREATE TABLE `Stu` 
+(
+    `Id` longtext NOT NULL,
+    `Name` longtext NULL,
+    PRIMARY KEY (`Id`) 
+)
+ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+---------------------------------------
+V5.7.8.2 Record On : 2018-11-30 15:32:38 
+---------------------------------------
+
+[Exception]:V5.7.8.2 Error : MySql Call Function::ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+MySql.hiswmsmedicine.SQL: 
+CREATE TABLE `Stu` 
+(
+    `Id` longtext NOT NULL,
+    `Name` longtext NULL,
+    PRIMARY KEY (`Id`) 
+)
+ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+---------------------------------------
+V5.7.8.2 Record On : 2018-11-30 15:33:04 
+---------------------------------------
+
+[Exception]:V5.7.8.2 Error : MySql Call Function::ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+MySql.hiswmsmedicine.SQL: 
+CREATE TABLE `Studenttt` 
+(
+    `Id` longtext NOT NULL,
+    `Name` longtext NULL,
+    PRIMARY KEY (`Id`) 
+)
+ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+---------------------------------------
+V5.7.8.2 Record On : 2018-11-30 15:33:53 
+---------------------------------------
+
+[Exception]:V5.7.8.2 Error : MySql Call Function::ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+MySql.hiswmsmedicine.SQL: 
+CREATE TABLE `Studenttt` 
+(
+    `Id` longtext NOT NULL,
+    `Name` longtext NULL,
+    PRIMARY KEY (`Id`) 
+)
+ExeNonQuery():BLOB/TEXT column 'Id' used in key specification without a key length
+:
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)
+   在 CYQ.Data.Error.Throw(String msg)
+   在 CYQ.Data.Log.WriteLog(Boolean isWriteLog, String message)
+   在 CYQ.Data.DbBase.WriteError(String err)
+   在 CYQ.Data.DbBase.ExeNonQuerySQL(String cmdText, Boolean isProc)
+   在 CYQ.Data.DbBase.ExeNonQuery(String cmdText, Boolean isProc)
+   在 CYQ.Data.MProc.ExeNonQuery()
+   在 CYQ.Data.Tool.DBTool.CreateTable(String tableName, MDataColumn columns, String conn)

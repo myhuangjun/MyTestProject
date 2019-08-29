@@ -1,0 +1,9 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\MyAopCommon.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\MyAopCommon.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\MySql.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\obj\Debug\MyAopCommon.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\obj\Debug\MyAopCommon.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\obj\Debug\MyAopCommon.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyAopCommon\bin\Debug\CYQ.Data.xml

@@ -1,0 +1,18 @@
+V5.7.9.1 Record On : 2019-06-28 09:35:49 : 
+
+[Exception]:路径不能为空字符串或全为空白。:
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 CYQ.Data.Tool.IOHelper.Save(String fileName, String text, Boolean isAppend, Boolean writeLogOnError, Encoding encode) 位置 d:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\Tool\IOHelper.cs:行号 157
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 CYQ.Data.Tool.IOHelper.Save(String fileName, String text, Boolean isAppend, Boolean writeLogOnError, Encoding encode) 位置 d:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\Tool\IOHelper.cs:行号 157
+---------------------------------------
+
+V5.7.9.1 Record On : 2019-06-28 09:36:28 : 
+
+[Exception]:路径不能为空字符串或全为空白。:
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 CYQ.Data.Tool.IOHelper.Save(String fileName, String text, Boolean isAppend, Boolean writeLogOnError, Encoding encode) 位置 d:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\Tool\IOHelper.cs:行号 157
+   在 System.IO.Directory.CreateDirectory(String path)
+   在 CYQ.Data.Tool.IOHelper.Save(String fileName, String text, Boolean isAppend, Boolean writeLogOnError, Encoding encode) 位置 d:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\Tool\IOHelper.cs:行号 157
+---------------------------------------
+

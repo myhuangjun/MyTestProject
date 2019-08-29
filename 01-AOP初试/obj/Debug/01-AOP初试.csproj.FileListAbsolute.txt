@@ -1,0 +1,14 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\01-AOP初试.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\01-AOP初试.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\01-AOP初试.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\obj\Debug\_01_AOP初试.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\obj\Debug\01-AOP初试.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\obj\Debug\01-AOP初试.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\obj\Debug\01-AOP初试.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\MyAopCommon.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\MySql.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\CYQ.Data.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\bin\Debug\MyAopCommon.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\01-AOP初试\obj\Debug\01-AOP初试.csprojResolveAssemblyReference.cache

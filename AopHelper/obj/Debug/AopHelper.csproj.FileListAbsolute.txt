@@ -1,0 +1,9 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\AopHelper.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\AopHelper.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\Model.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\Model.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\obj\Debug\AopHelper.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\obj\Debug\AopHelper.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\obj\Debug\AopHelper.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\CommonAttribute.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\AopHelper\bin\Debug\CommonAttribute.pdb

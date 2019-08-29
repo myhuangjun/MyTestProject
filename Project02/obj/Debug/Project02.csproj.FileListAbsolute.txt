@@ -1,0 +1,6 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\bin\Debug\Project02.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\bin\Debug\Project02.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\bin\Debug\Project02.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\obj\Debug\Project02.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\obj\Debug\Project02.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Project02\obj\Debug\Project02.csprojResolveAssemblyReference.cache

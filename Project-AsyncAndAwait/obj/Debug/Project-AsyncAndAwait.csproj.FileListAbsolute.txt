@@ -1,0 +1,5 @@
+D:\Management\PT_Interface\各种测试项目\MyTest\Project-AsyncAndAwait\bin\Debug\Project-AsyncAndAwait.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\Project-AsyncAndAwait\bin\Debug\Project-AsyncAndAwait.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\Project-AsyncAndAwait\bin\Debug\Project-AsyncAndAwait.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\Project-AsyncAndAwait\obj\Debug\Project-AsyncAndAwait.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\Project-AsyncAndAwait\obj\Debug\Project-AsyncAndAwait.pdb
