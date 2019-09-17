@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="vue.js"></script>
+    <title></title>
+</head>
+<body>
+    <!--实例1:绑定信息-->
+    <!--实例1:现在数据和 DOM 已经被建立了关联，所有东西都是响应式的-->
+    <div id="app">{{message}}</div>
+    <!--实例2:声明式渲染-->
+    <!--这里我们遇到了一点新东西。你看到的 v-bind 特性被称为指令。指令带有前缀 v-，
+    以表示它们是 Vue 提供的特殊特性。可能你已经猜到了，它们会在渲染的 DOM 上应用特殊的响应式行为。
+    在这里，该指令的意思是：“将这个元素节点的 title 特性和 Vue 实例的 message 属性保持一致”。-->
+    <div id="app2"><span v-bind:title="message">鼠标放到这试试</span></div>
+    <!--实例3:条件与循环-->
+
+    <div id="app3">
+        <span v-if="seen">你就看到我了</span>
+        <ol><li v-for="tool in tools">{{tool.text}}</li></ol>
+    </div>
+<!--处理用户输入-->
+<!--我可以用v-on指令来添加一个监听事件-->
+    <div id="app4">
+        <p>{{message}}</p>
+        <button v-on:click="Test">点击试试</button>
+    </div>
+</body>
+<script>
+    var app = new Vue({
+        el: "#app",
+        data: {
+            message: "Hello word"
+        }
+    });
+    var app2 = new Vue({
+        el: "#app2",
+        data: {
+            message: "页面加载于" + new Date().toLocaleString()
+        }
+    });
+    var app3 = new Vue({
+        el: "#app3",
+        data: {
+            seen: true,
+            tools: [
+                { text: "张三", value: 1 },
+                { text: "李四", value: 2 },
+                { text: "王五", value: 3 }
+            ]
+        }
+    });
+    var app4 = new Vue({
+        el: "#app4",
+        data: {
+            message: "你是个瓜娃子"
+        },
+        methods: {
+            Test: function () {
+                this.message = this.message + ",你才是个瓜娃子";
+            }
+        }
+
+    })
+</script>
+</html>
+
+
+

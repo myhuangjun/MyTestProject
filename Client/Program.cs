@@ -13,7 +13,7 @@ namespace Client
         static void Main(string[] args)
         {
             BaseHelper helpr=new BaseHelper();
-            helpr.GetList<User>(" 1=1");
+            //helpr.GetList<User>(" 1=1");
         }
     }
 }

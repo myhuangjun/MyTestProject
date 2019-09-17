@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AttributeFilter.cs" />
     <Compile Include="BaseAttribute.cs" />
     <Compile Include="ColumnNameAttribute.cs" />
     <Compile Include="IgnoreAttribute.cs" />

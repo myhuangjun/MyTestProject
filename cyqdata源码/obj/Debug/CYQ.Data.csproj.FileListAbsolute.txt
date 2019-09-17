@@ -18,3 +18,13 @@ D:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\obj\Debug\CYQ
 D:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\obj\Debug\CYQ.Data.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\obj\Debug\CYQ.Data.dll
 D:\Management\PT_Interface\各种测试项目\MyTest\cyqdata源码\obj\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\bin\Debug\CYQ.Data.XML
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\bin\Debug\System.Data.OracleClient.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\bin\Debug\zh-CHS\System.Data.OracleClient.resources.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\obj\Debug\CYQ.Data.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\obj\Debug\CYQ.Data.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\obj\Debug\CYQ.Data.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\obj\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\cyqdata源码\obj\Debug\CYQ.Data.pdb

@@ -6,3 +6,11 @@ D:\Management\PT_Interface\各种测试项目\MyTest\ExcelClient\bin\Debug\Excel
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelClient\obj\Debug\ExcelClient.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelClient\obj\Debug\ExcelClient.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelClient\obj\Debug\ExcelClient.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\bin\Debug\ExcelClient.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\bin\Debug\ExcelClient.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\bin\Debug\ExcelClient.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\bin\Debug\ExcelToDataBase.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\bin\Debug\ExcelToDataBase.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\obj\Debug\ExcelClient.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\obj\Debug\ExcelClient.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelClient\obj\Debug\ExcelClient.pdb

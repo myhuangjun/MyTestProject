@@ -8,3 +8,13 @@ D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Hosting\bin\Debug\WCF-S
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Hosting\obj\Debug\WCF-Hosting.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Hosting\obj\Debug\WCF-Hosting.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Hosting\obj\Debug\WCF-Hosting.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Hosting.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Hosting.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Hosting.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Contracts.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Service.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Contracts.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\bin\Debug\WCF-Service.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\obj\Debug\WCF-Hosting.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\obj\Debug\WCF-Hosting.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Hosting\obj\Debug\WCF-Hosting.pdb

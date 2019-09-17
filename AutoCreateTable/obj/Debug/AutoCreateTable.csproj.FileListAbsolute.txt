@@ -26,3 +26,11 @@ D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateTable\obj\Debug\A
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateTable\obj\Debug\AutoCreateTable.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateTable\obj\Debug\AutoCreateTable.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateTable\obj\Debug\AutoCreateTable.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\bin\Debug\AutoCreateTable.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\bin\Debug\AutoCreateTable.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\bin\Debug\AutoCreateTable.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.Form1.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.pdb

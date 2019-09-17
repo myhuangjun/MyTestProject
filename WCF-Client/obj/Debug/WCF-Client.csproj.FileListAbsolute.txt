@@ -4,3 +4,9 @@ D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Client\bin\Debug\WCF-Cl
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Client\obj\Debug\WCF-Client.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Client\obj\Debug\WCF-Client.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Client\obj\Debug\WCF-Client.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\bin\Debug\WCF-Client.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\bin\Debug\WCF-Client.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\bin\Debug\WCF-Client.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\obj\Debug\WCF-Client.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\obj\Debug\WCF-Client.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Client\obj\Debug\WCF-Client.pdb

@@ -11,3 +11,15 @@ D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateModel\obj\Debug\A
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateModel\obj\Debug\AutoCreateModel.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateModel\obj\Debug\AutoCreateModel.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\AutoCreateModel\obj\Debug\AutoCreateModel.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\AutoCreateModel.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\AutoCreateModel.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\AutoCreateModel.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\bin\Debug\CYQ.Data.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.Form1.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateModel\obj\Debug\AutoCreateModel.pdb

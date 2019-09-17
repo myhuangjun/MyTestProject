@@ -10,3 +10,15 @@ D:\Management\PT_Interface\各种测试项目\MyTest\Client\obj\Debug\Client.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\Client\obj\Debug\Client.pdb
 D:\Management\PT_Interface\各种测试项目\MyTest\Client\bin\Debug\CommonAttribute.dll
 D:\Management\PT_Interface\各种测试项目\MyTest\Client\bin\Debug\CommonAttribute.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\Client.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\Client.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\Client.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\AopHelper.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\CommonAttribute.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\Model.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\AopHelper.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\CommonAttribute.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\bin\Debug\Model.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\obj\Debug\Client.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\Client\obj\Debug\Client.pdb

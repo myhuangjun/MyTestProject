@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="vue.js"></script>
+    <title>模板语法</title>
+</head>
+<body>
+    <div id="app">
+        <!--文本-->
+        <span>Message:{{message}}</span>
+        <!--特性-->
+        <div v-bind:id="dynamicId">我是可以动态改特性的</div>
+        <!--参数-->
+        <!--一些指令能够接收一个“参数”，在指令名称之后以冒号表示。例如，v-bind 指令可以用于响应式地更新 HTML 特性-->
+        <a v-bind:href="url">点我试试</a>
+        <!--使用 v-html 指令用于输出 html 代码：-->
+        <div v-html="html"></div>
+        <!--v-model 指令用来在 input、select、textarea、checkbox、radio
+        等表单控件元素上创建双向数据绑定，根据表单上的值，自动更新绑定的元素的值。-->
+        {{inputvalue}}
+        <input v-model="inputvalue" />
+        <!--v-if,v-else if,v-else-->
+        <div v-if="value==='A'">A</div>
+        <div v-else-if="value==='B'">B</div>
+        <div v-else>Not A or B</div>
+        <!--for循环-->
+        <!--v-for=(value,key,index) in object-->
+        <ol>
+            <li v-for="tool in tools">{{tool}}</li>
+            <li>**************</li>
+            <li v-for="(tool,key) in tools">{{key}}:{{tool}}</li>
+            <li>**************</li>
+            <li v-for="(tool,key,index) in tools">{{index}}-{{key}}:{{tool}}</li>
+        </ol>
+        <!--迭代整数-->
+        <p v-for="n in 3">{{n}}</p>
+    </div>
+
+</body>
+</html>
+<script>
+    var app = new Vue({
+        el: "#app",
+        data: {
+            message: "你是猪",
+            dynamicId: "t1",
+            url: "www.baidu.com",
+            html: "<p>略略略他</p>",
+            inputvalue: "",
+            value: 'A',
+            tools: { text: "张三", name: "王麻子", value: "哈哈哈" }
+
+        }
+    });
+</script>

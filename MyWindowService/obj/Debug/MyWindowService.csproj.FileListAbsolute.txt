@@ -9,3 +9,14 @@ D:\Management\PT_Interface\各种测试项目\MyTest\MyWindowService\obj\Debug\M
 D:\Management\PT_Interface\各种测试项目\MyTest\MyWindowService\obj\Debug\MyWindowService.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\MyWindowService\obj\Debug\MyWindowService.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\MyWindowService\obj\Debug\MyWindowService.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\MyWindowService.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\MyWindowService.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\MyWindowService.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\bin\Debug\CYQ.Data.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\obj\Debug\MyWindowService.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\obj\Debug\MyWindowService.ProjectInstaller.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\obj\Debug\MyWindowService.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\obj\Debug\MyWindowService.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\MyWindowService\obj\Debug\MyWindowService.pdb

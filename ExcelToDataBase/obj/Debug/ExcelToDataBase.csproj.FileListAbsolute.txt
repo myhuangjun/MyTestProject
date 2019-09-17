@@ -3,3 +3,7 @@ D:\Management\PT_Interface\各种测试项目\MyTest\ExcelToDataBase\bin\Debug\E
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelToDataBase\obj\Debug\ExcelToDataBase.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelToDataBase\obj\Debug\ExcelToDataBase.dll
 D:\Management\PT_Interface\各种测试项目\MyTest\ExcelToDataBase\obj\Debug\ExcelToDataBase.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelToDataBase\bin\Debug\ExcelToDataBase.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelToDataBase\bin\Debug\ExcelToDataBase.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelToDataBase\obj\Debug\ExcelToDataBase.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ExcelToDataBase\obj\Debug\ExcelToDataBase.pdb

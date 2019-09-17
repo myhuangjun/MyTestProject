@@ -27,3 +27,15 @@ D:\Management\PT_Interface\各种测试项目\MyTest\CYQProject\obj\Debug\CYQPro
 D:\Management\PT_Interface\各种测试项目\MyTest\CYQProject\obj\Debug\CYQProject.Form1.resources
 D:\Management\PT_Interface\各种测试项目\MyTest\CYQProject\obj\Debug\CYQProject.Properties.Resources.resources
 D:\Management\PT_Interface\各种测试项目\MyTest\CYQProject\obj\Debug\CYQProject.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQProject.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQProject.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQProject.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\bin\Debug\CYQ.Data.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.Form1.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\CYQProject\obj\Debug\CYQProject.pdb

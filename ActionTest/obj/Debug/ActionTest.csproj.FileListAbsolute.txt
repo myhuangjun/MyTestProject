@@ -4,3 +4,8 @@ D:\Management\PT_Interface\各种测试项目\MyTest\ActionTest\bin\Debug\Action
 D:\Management\PT_Interface\各种测试项目\MyTest\ActionTest\obj\Debug\ActionTest.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\ActionTest\obj\Debug\ActionTest.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\ActionTest\obj\Debug\ActionTest.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ActionTest\bin\Debug\ActionTest.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ActionTest\bin\Debug\ActionTest.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ActionTest\bin\Debug\ActionTest.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ActionTest\obj\Debug\ActionTest.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ActionTest\obj\Debug\ActionTest.pdb

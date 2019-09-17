@@ -4,9 +4,11 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Transactions;
+using System.Web;
 using System.Windows.Forms;
 using CYQ.Data;
 using CYQ.Data.Table;
@@ -73,57 +75,9 @@ namespace CYQProject
 
         private void button4_Click(object sender, EventArgs e)
         {
-            var list = new List<Student>();
-            list.Add(new Student()
-            {
-                Id = "4",
-                Name = "李四",
-                Sex = "11",
-                Weight = "50"
-
-            });
-            list.Add(new Student()
-            {
-                Id = "0",
-                Name = "王八",
-                Sex = "110",
-                Weight = "120"
-
-            });
-            using (var action = new MAction("Student"))
-            {
-                foreach (var item in list)
-                {
-                    if (action.Exists("Id='" + item.Id + "'"))
-                    {
-                        action.SetExpression("Weight=Weight+" + item.Weight);
-                        action.Update("Id='" + item.Id + "'");
-                        action.Data.Clear();
-                        continue;
-                    }
-                    action.Set("Name", item.Name);
-                    action.Set("Sex", item.Sex);
-                    action.Set("Weight", item.Weight);
-                    action.Set("Id", item.Id);
-                    action.Insert();
-                    action.Data.Clear();
-                }
-            }
-            MessageBox.Show("22222");
+            textBox2.Text = GetPath();
         }
 
-        //public void Update()
-        //{
-        //    using (var action = new MAction("Student"))
-        //    {
-        //        var name = textBox1.Text;
-        //        action.Set("Name", DBNull.Value);
-        //        action.Set("Age", 10);
-        //        action.Update(" Age=10");
-        //        var i = action.RecordsAffected;
-        //        MessageBox.Show(i + "");
-        //    }
-        //}
         public class Student
         {
             public string Id { get; set; }
@@ -132,6 +86,8 @@ namespace CYQProject
             public string Weight { get; set; }
             public List<int> HaHa { get; set; }
         }
+
+
         public void Update()
         {
             var conn = "host=127.0.0.1;Port=3306;Database=hiswmsmaterial;uid=root;pwd=1234";
@@ -145,5 +101,23 @@ namespace CYQProject
             MessageBox.Show(this, "1111");
         }
 
+
+        public string GetPath()
+        {
+            string filePre = "file:\\";
+            if (IsWeb())
+            {
+                return AppDomain.CurrentDomain.BaseDirectory;
+            }
+            Assembly ass = System.Reflection.Assembly.GetExecutingAssembly();
+            var path = ass.CodeBase;
+            return System.IO.Path.GetDirectoryName(path).Replace(filePre, string.Empty) + "\\";
+        }
+
+
+        public bool IsWeb()
+        {
+            return HttpContext.Current != null;
+        }
     }
 }

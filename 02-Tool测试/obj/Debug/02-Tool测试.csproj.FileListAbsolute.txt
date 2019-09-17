@@ -8,3 +8,12 @@ D:\Management\PT_Interface\各种测试项目\MyTest\02-Tool测试\obj\Debug\02-
 D:\Management\PT_Interface\各种测试项目\MyTest\02-Tool测试\obj\Debug\02-Tool测试.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\02-Tool测试\obj\Debug\02-Tool测试.pdb
 D:\Management\PT_Interface\各种测试项目\MyTest\02-Tool测试\bin\Debug\MySql.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\02-Tool测试.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\02-Tool测试.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\02-Tool测试.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\CYQ.Data.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\CYQ.Data.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\bin\Debug\CYQ.Data.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\obj\Debug\02-Tool测试.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\obj\Debug\02-Tool测试.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\02-Tool测试\obj\Debug\02-Tool测试.pdb

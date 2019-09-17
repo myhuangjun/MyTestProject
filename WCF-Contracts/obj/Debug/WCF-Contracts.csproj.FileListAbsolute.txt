@@ -3,3 +3,8 @@ D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Contracts\bin\Debug\WCF
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Contracts\obj\Debug\WCF-Contracts.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Contracts\obj\Debug\WCF-Contracts.dll
 D:\Management\PT_Interface\各种测试项目\MyTest\WCF-Contracts\obj\Debug\WCF-Contracts.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Contracts\bin\Debug\WCF-Contracts.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Contracts\bin\Debug\WCF-Contracts.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Contracts\obj\Debug\WCF-Contracts.csprojResolveAssemblyReference.cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Contracts\obj\Debug\WCF-Contracts.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\WCF-Contracts\obj\Debug\WCF-Contracts.pdb

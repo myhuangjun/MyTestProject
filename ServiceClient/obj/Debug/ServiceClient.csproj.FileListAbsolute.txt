@@ -43,3 +43,11 @@ D:\Management\PT_Interface\各种测试项目\MyTest\ServiceClient\obj\Debug\Ser
 D:\Management\PT_Interface\各种测试项目\MyTest\ServiceClient\obj\Debug\ServiceClient.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\ServiceClient\obj\Debug\ServiceClient.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\bin\Debug\ServiceClient.exe.config
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\bin\Debug\ServiceClient.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\bin\Debug\ServiceClient.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.Form1.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.Properties.Resources.resources
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.csproj.GenerateResource.Cache
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.exe
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.pdb
