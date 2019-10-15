@@ -70,6 +70,7 @@ namespace CYQProject
                 action.Set("Id", "-1");
                 action.Update("Id=0");
             }
+
             MessageBox.Show(this, "1111");
         }
 
@@ -98,6 +99,7 @@ namespace CYQProject
                 action.Set("v_count", 20);
                 action.Update();
             }
+
             MessageBox.Show(this, "1111");
         }
 
@@ -109,6 +111,7 @@ namespace CYQProject
             {
                 return AppDomain.CurrentDomain.BaseDirectory;
             }
+
             Assembly ass = System.Reflection.Assembly.GetExecutingAssembly();
             var path = ass.CodeBase;
             return System.IO.Path.GetDirectoryName(path).Replace(filePre, string.Empty) + "\\";
@@ -118,6 +121,37 @@ namespace CYQProject
         public bool IsWeb()
         {
             return HttpContext.Current != null;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            string name = "";
+            IsEnoughCount(Guid.Empty, out name);
+        }
+
+
+        public void IsEnoughCount(Guid businessId, out string name)
+        {
+            name = "";
+            string sql1 = @"SELECT sout.`Count` as Total,detail.`Count` as V_Count,his.MedicineName as `Name` 
+            from DepartmentHousestockout sout  left join DepartmentHouseStockDetail detail on 
+            sout.MedicineID=detail.MedicineID and sout.BathCount=detail.BathCount  
+            and sout.DepartmentHouseId=detail.DepartmentHouseId left join historydetail his 
+            on sout.HistoryId=his.GUID 
+            where sout.BusinessID='39f0bb36-9dd6-9a47-1e39-8b57fb254e3e'";
+            using (var action = new MAction(sql1))
+            {
+                var dd = action.Select();
+                foreach (MDataRow t in dd.Rows)
+                {
+                    var v_count = t.Get<int>("V_Count");//库存量
+                    var total = t.Get<int>("Total");//减少数量
+                    if (total > v_count)
+                    {
+                        name = t.Get<string>("Name");
+                    }
+                }
+            }
         }
     }
 }

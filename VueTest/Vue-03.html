@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Vue组件</title>
+    <script src="vue.js"></script>
+    <!--为了能在模板中使用，这些组件必须先注册以便 Vue 能够识别。这里有两种组件的注册类型：全局注册和局部注册。-->
+    <style>
+        div {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <button-counter></button-counter>
+    </div>
+    <!--prop测试-->
+    <div id="app2" style="margin-top:20px ">
+        <child message="hello"></child>
+    </div>
+
+    <!--动态prop-->
+    <div id="app3">
+        <input v-model="parentMsg" />
+        <br />
+        <childmsg v-bind:message="parentMsg"></childmsg>
+    </div>
+
+    <div id="app4">
+        <ol>
+            <todo-item v-for="item in sites" v-bind:todo="item"></todo-item>
+        </ol>
+    </div>
+</body>
+</html>
+
+<script>
+    Vue.component('todo-item',
+        {
+            props: ['todo'],
+            template: "<li>{{ todo.text }}</li>"
+        });
+    new Vue({
+        el: "#app4",
+        data: {
+            sites: [
+                { text: "张三" },
+                { text: "李四" },
+                { text: "王五" }
+            ]
+        }
+    })
+
+
+</script>
+    
+<script>
+
+
+    //注册一个简单的组件 （全局注册）
+    Vue.component('button-counter', {
+        data: function () {
+            return {
+                count: 0
+            }
+        },
+        template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
+    });
+    //prop是用来传递数据给子组件
+    Vue.component('child',
+        {
+            props: ["message"],
+            template: '<span>{{message}}</span>'
+        });
+    new Vue({ el: "#app2" });
+
+    //动态prop
+    Vue.component('childmsg',
+        {
+            props: ["message"],
+            template: "<span>{{message}}</span>"
+        });
+    new Vue({
+        el: '#app3',
+        data: {
+            parentMsg: '1'
+        }
+    })
+
+
+    var vue = new Vue({ el: '#app' });
+    //局部注册
+    new Vue({
+        el: "#app2",
+        component: {
+
+        }
+    });
+</script>

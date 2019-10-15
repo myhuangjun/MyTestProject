@@ -67,6 +67,8 @@
   <ItemGroup>
     <Content Include="Vue-01.html" />
     <Content Include="Vue-02.html" />
+    <Content Include="Vue-03.html" />
+    <Content Include="Vue-04.html" />
     <Content Include="vue.js" />
     <Content Include="Web.config" />
   </ItemGroup>

@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>自定义事件</title>
+    <script src="vue.js"></script>
+    <style>
+        div {
+            margin-top: 20px;
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <div id="counter-event">
+            <p>{{total}}</p>
+            <button-counter v-on:increment="incrementtotal"></button-counter>
+            <button-counter v-on:increment="incrementtotal"></button-counter>
+        </div>
+    </div>
+
+    <div id="app2">
+        <p>页面加载时,自动获取焦点</p>
+        <input v-focus />
+    </div>
+</body>
+<script>
+    Vue.directive('focus', //注册自定义指令
+        {
+            inserted: function (el) {
+                el.focus();
+            }
+        });
+    new Vue({
+        el: "#app2"
+    });
+
+    //自定义指令
+    Vue.component('button-counter',
+        {
+            data: function () {
+                return {
+                    counter: 0
+                }
+            },
+            methods: {
+                increamentHandler: function () {
+                    this.counter++;
+                    this.$emit('increment'); //触发increment事件
+                }
+            },
+            template: '<input type="button" v-on:click="increamentHandler" v-bind:value="counter" />',
+        });
+    new Vue({
+        el: "#counter-event",
+        data: {
+            total: 0
+        },
+        methods: {
+            incrementtotal: function () {
+                this.total += 1;
+            }
+        }
+    })
+</script>
+</html>
