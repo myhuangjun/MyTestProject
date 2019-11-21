@@ -51,3 +51,4 @@ D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\ServiceClient\obj\Debug\ServiceClient.csprojResolveAssemblyReference.cache

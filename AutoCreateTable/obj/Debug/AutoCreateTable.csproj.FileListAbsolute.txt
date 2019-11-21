@@ -34,3 +34,4 @@ D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTab
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.csproj.GenerateResource.Cache
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.exe
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\AutoCreateTable\obj\Debug\AutoCreateTable.csprojResolveAssemblyReference.cache
