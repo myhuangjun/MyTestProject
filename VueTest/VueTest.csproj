@@ -65,12 +65,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\animate.min.css" />
+    <Content Include="css\demo.css" />
+    <Content Include="js\wow.min.js" />
     <Content Include="Vue-01.html" />
     <Content Include="Vue-02.html" />
     <Content Include="Vue-03.html" />
     <Content Include="Vue-04.html" />
     <Content Include="vue.js" />
     <Content Include="Web.config" />
+    <Content Include="Wow测试.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />

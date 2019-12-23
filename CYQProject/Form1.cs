@@ -131,32 +131,12 @@ namespace CYQProject
 
         private void button5_Click(object sender, EventArgs e)
         {
-            string name = "";
-            IsEnoughCount(Guid.Empty, out name);
-        }
-
-
-        public void IsEnoughCount(Guid businessId, out string name)
-        {
-            name = "";
-            string sql1 = @"SELECT sout.`Count` as Total,detail.`Count` as V_Count,his.MedicineName as `Name` 
-            from DepartmentHousestockout sout  left join DepartmentHouseStockDetail detail on 
-            sout.MedicineID=detail.MedicineID and sout.BathCount=detail.BathCount  
-            and sout.DepartmentHouseId=detail.DepartmentHouseId left join historydetail his 
-            on sout.HistoryId=his.GUID 
-            where sout.BusinessID='39f0bb36-9dd6-9a47-1e39-8b57fb254e3e'";
-            using (var action = new MAction(sql1))
+            var conn = "host=192.168.0.232;Port=3306;Database=dicomserver;uid=root;pwd=sdt/1234";
+            using (var action = new MAction("binddata", conn))
             {
-                var dd = action.Select();
-                foreach (MDataRow t in dd.Rows)
-                {
-                    var v_count = t.Get<int>("V_Count");//库存量
-                    var total = t.Get<int>("Total");//减少数量
-                    if (total > v_count)
-                    {
-                        name = t.Get<string>("Name");
-                    }
-                }
+                var dt = action.Select();
+                var m = dt.Select("CheckPart<>'-1'");
+                textBox2.Text = m.ToJson(false, false);
             }
         }
 
@@ -281,12 +261,58 @@ namespace CYQProject
         private void button10_Click(object sender, EventArgs e)
         {
             string conn = "host=127.0.0.1;Port=3306;Database=dicomserver;uid=root;pwd=1234";
-            using (var action=new MAction("Collect",conn))
+            using (var action = new MAction("Collect", conn))
             {
                 var dt = action.Select();
                 dt.JoinOnName = "CollectType";
-                dt=dt.Join("CollectType", "GUID", "Name");
+                dt = dt.Join("CollectType", "GUID", "Name");
                 textBox2.Text = dt.ToJson(true, false);
+            }
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            string conn = "host=127.0.0.1;Port=3306;Database=dicomserver;uid=root;pwd=1234";
+            string sql = "select a.*,b.AuditLevel  from basicequipment a left join basicequipmenttype b on" +
+                         " a.equipmenttype=b.GUID";
+            using (var action = new MAction(sql, conn))
+            {
+                var dt = action.Select(" 1=1  order by AuditLevel desc");
+                textBox2.Text = dt.ToJson(false);
+            }
+        }
+
+        private void button12_Click(object sender, EventArgs e)
+        {
+            string conn = "host=127.0.0.1;Port=3306;Database=dicomserver;uid=root;pwd=1234";
+            Test(conn);
+        }
+
+        public void Test(string conn)
+        {
+            using (var action = new MAction("DictionaryInfo", conn))
+            {
+                action.BeginTransation();
+                action.Set("DeptNum", "1");
+                action.Set("DocNum",1);
+                action.Set("OrgNum", 1);
+                action.Set("Name", "测试");
+                action.Set("Level", 1);
+                action.Set("State",1);
+                var i = action.Insert(InsertOp.ID);
+                var id = action.Get<int>("SysNo");
+                action.ResetTable("dictionarydetailinfo");
+                var dt = action.Data.Table.GetSchema(true);
+                for (int j = 0; j < 3; j++)
+                {
+                    var row = dt.NewRow();
+                    row.Set("DictionarySysNo", id);
+                    row.Set("Value", j);
+                    row.Set("Text", j);
+                    dt.Rows.Add(row);
+                }
+                var flag = dt.AcceptChanges(AcceptOp.Insert);
+                action.EndTransation();
             }
         }
     }
