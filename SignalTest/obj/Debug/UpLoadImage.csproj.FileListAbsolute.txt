@@ -170,3 +170,9 @@ D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bi
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\obj\Debug\UpLoadImage.csprojResolveAssemblyReference.cache
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\obj\Debug\SignalTest.dll
 D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\obj\Debug\SignalTest.pdb
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Net.Http.Formatting.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Web.Http.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Web.Http.WebHost.dll
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Net.Http.Formatting.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Web.Http.xml
+D:\Management\PT_Interface\各种测试项目\MyTest\MyTestProject\SignalTest\bin\System.Web.Http.WebHost.xml

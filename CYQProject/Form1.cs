@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -314,6 +315,20 @@ namespace CYQProject
                 var flag = dt.AcceptChanges(AcceptOp.Insert);
                 action.EndTransation();
             }
+        }
+
+        private void button13_Click(object sender, EventArgs e)
+        {
+            Stopwatch sw=new Stopwatch();
+            sw.Start();
+            var result = 0;
+            for (int i = 0; i < 10000; i++)
+            {
+                result += i;
+            }
+            sw.Stop();
+            TimeSpan ts = sw.Elapsed;
+            textBox2.Text = "执行10000的叠加结果为:" + result+",执行时间:"+ts;
         }
     }
 }
